@@ -1,0 +1,28 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/Aphibun/pluginHost.git
+	ignore = dirpy
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/Aphibun/pluginInterface.git
+	ignore = dirpy
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/Aphibun/plugin1.git
+	ignore = dirpy
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/Aphibun/plugin3.git
+	ignore = dirpy
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/Aphibun/plugin2.git
+	ignore = dirpy
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/Aphibun/plugin4.git
+	ignore = dirpy
+[submodule "63030101"]
+	path = 63030101
+	url = https://github.com/Aphibun/63030101.git
+	ignore = dirpy
